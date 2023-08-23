@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#f3c66c), url(https://www.whoa.in/download/international-yoga-day-world-yoga-day-hd-images-wallpapers-3-international-yoga-day);
+    background: linear-gradient(rgba(0,0,0,0.5),#3cd1db), url(https://www.whoa.in/download/international-yoga-day-world-yoga-day-hd-images-wallpapers-3-international-yoga-day);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -67,7 +67,7 @@
     position: fixed;
     right:-250px;
     top: 0;
-    background:#f3c66c;
+    background:#3cd1db;
     z-index: 2;
     transition: 0.5s;
 }
@@ -82,7 +82,7 @@ nav ul li a{
 #menuBtn{
     width: 50px;
     height: 50px;
-    background: #f3c66c;
+    background: #3cd1db;
     text-align: center;
     position: fixed;
     right: 30px;
@@ -109,7 +109,7 @@ nav ul li a{
 .title-text p{
     margin: auto;
     font-size: 20px;
-    color:#e2910e;
+    color:#3cd1db;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -157,7 +157,7 @@ nav ul li a{
 .features h1{
     text-align: left;
     margin-bottom: 10px;
-    color: #e2910e;
+    color: ##3cd1db;
 }
 .features-description{
     display: flex;
@@ -195,7 +195,7 @@ nav ul li a{
 #service{
     width: 100%;
     padding: 70px 0;
-    background: #efefef;
+    background: #3cd1db;
 }
 .service-box{
     width: 80%;
@@ -308,11 +308,11 @@ hr{
 }
 .user-info .fa{
     margin-left: 10px;
-    color: #27c0ff;
+    color: #3cd1db;
     font-size: 20px;
 }
 .user-info small{
-    color:#e2910e ;
+    color:#3cd1db ;
 }
 .testimonial-col:hover{
     transform: translateY(8px);
@@ -352,7 +352,7 @@ hr{
 }
 .footer-left .fa,.footer-right .fa{
     font-size: 20px;
-    color: #e2910e;
+    color: #3cd1db;
     margin: 10px;
 }
 .footer-img{
@@ -373,12 +373,12 @@ hr{
     line-height: 40px;
     border: 1px solid #009688;
     margin: 40px 5px 0;
-    color: #e2910e;
+    color: #3cd1db;
     cursor: pointer;
     transition:.5s;
 }
 .social-links .fa:hover{
-    background: #e2910e;
+    background: #3cd1db;
     color:#fff;
     transform: translateY(-8px);
 }

@@ -82,7 +82,7 @@ nav ul li a{
 #menuBtn{
     width: 50px;
     height: 50px;
-    background: #3cd1db;
+    background:#3cd1db;
     text-align: center;
     position: fixed;
     right: 30px;
@@ -119,7 +119,7 @@ nav ul li a{
     content: '';
     width: 50px;
     height: 35px;
-    background: linear-gradient(#e2910e, #fff);
+    background: linear-gradient(#3cd1db, #fff);
     position: absolute;
     top: -20px;
     left: 0;
@@ -157,7 +157,7 @@ nav ul li a{
 .features h1{
     text-align: left;
     margin-bottom: 10px;
-    color: ##3cd1db;
+    color: #3cd1db;
 }
 .features-description{
     display: flex;
@@ -170,7 +170,7 @@ nav ul li a{
     font-size: 30px;
     line-height: 50px;
     border-radius: 8px;
-    color: #e2910e;
+    color: #3cd1db;
 }
 .feature-text p{
     padding: 0 20px;
@@ -195,7 +195,7 @@ nav ul li a{
 #service{
     width: 100%;
     padding: 70px 0;
-    background: #3cd1db;
+    background: #efefef;
 }
 .service-box{
     width: 80%;
@@ -308,7 +308,7 @@ hr{
 }
 .user-info .fa{
     margin-left: 10px;
-    color: #3cd1db;
+    color: #27c0ff;
     font-size: 20px;
 }
 .user-info small{
